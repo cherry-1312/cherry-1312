@@ -1,7 +1,8 @@
 - Hello! I'm a mathematics graduate from The University of Aberdeen interested in learning programming through the application of numerical methods and data analysis.
+  Currently employed at LexisNexis working as a Solutions Analyst. 
   
-- To do this I've recently began reading Armstrong's _C++ for Financial Mathematics_.
-  You can look through - - to find all my solutions I've currently solved to the exercises found in the book.
+- Most recently I've began reading Armstrong's _C++ for Financial Mathematics_.
+  You can look through https://github.com/cherry-1312/CPP-Financial-Maths-Exercises to find all my solutions to the exercises I've solved so far found in the book.
   Since Armstrong has a page containing full code to all solutions in the book, I feel the need to clarify that the code presented in my repository is all my own work,
   and no consultations have been made throughout my learning process.
 - Beyond C++ I've also dabbled in R. The bulk of my  work in this language was confined to a university project which consisted of predicting the effects of climate
