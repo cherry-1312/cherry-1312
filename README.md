@@ -1,4 +1,4 @@
-- Hello! I'm a mathematics graduate from The University of Aberdeen interested in learning C++ through the application of numerical methods and data analysis.
+- Hello! I'm a mathematics graduate from The University of Aberdeen interested in learning programming through the application of numerical methods and data analysis.
   
 - To do this I've recently began reading Armstrong's _C++ for Financial Mathematics_.
   You can look through - - to find all my solutions I've currently solved to the exercises found in the book.
