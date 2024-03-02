@@ -10,8 +10,8 @@
   to analyse how the surrounding area in a specific section of the river would be affected. For this I used the libraries OCNet and rivnet together with Taudem to extract
   a model of the river tweed from elevation data in Scotland. All my code for this project can be found in - -.
 - Finally, I attempted to build a time series classsifier in Python using scraped data I gathered off a very famous financial analytics website that will remain unnamed.
-  I consider this project to be a failure. However, I consider the experience gained in manipulating large datasets utilising pandas, as well as working with JSON files
-  and plotting figures using numpy to be of great value. The massive, disorganised code for this project can be found in - -.
+  I consider this project to be a failure. However, the experience gained in manipulating large datasets utilising pandas, as well as working with JSON files
+  and plotting figures using numpy has been of great value. The massive, disorganised code for this project can be found in https://github.com/cherry-1312/Stocks-Time-Series-Classifier.
   
   
 <!---
