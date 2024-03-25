@@ -6,7 +6,7 @@
   Since Armstrong has a page containing full code to all solutions in the book, I feel the need to clarify that the code presented in my repository is all my own work,
   and no consultations have been made throughout my learning process.
 
-- To take a break from C++, I've done some basic forecasting price and risk forecasting in python. The jupyter notebook containing long term price predictions, as well as comparisons between different models can be found [here](https://github.com/tessella/Stocks-Predictions). For volatility forecasting of DOG, look [here](). 
+- To take a break from C++, I've done some basic forecasting price and risk forecasting in python. The jupyter notebook containing long term price predictions, as well as comparisons between different models can be found [here](https://github.com/tessella/Stocks-Predictions). For volatility forecasting of DOG, look [here](https://github.com/tessella/GARCH-modeling/tree/main). 
   
 - Beyond C++ and python, I've also dabbled in R. The bulk of my  work in this language was confined to a university project which consisted of predicting the effects of climate
   change on the River Tweed. My colleagues focused on predicting the change in the river Tweed's flow taking into account climate change. I used the predicted flow data
